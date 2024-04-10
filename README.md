@@ -1,1 +1,1 @@
-# Territoy-Prototype-1
+# Territoy Prototype 1
